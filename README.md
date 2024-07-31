@@ -22,10 +22,10 @@ This project showcases an integration of various tools for processing and analyz
 
 Ensure you have CMake installed if you encounter issues with llama-cpp-python installation.
 Replace placeholder values with your actual API keys and tokens.
-For detailed documentation on each library used, refer to their respective documentation:
-LangChain
-Pinecone
-Sentence Transformers
+For detailed documentation on each library used, refer to their respective documentation:  
+LangChain  
+Pinecone  
+Sentence Transformers   
 Hugging Face Hub
 
 
